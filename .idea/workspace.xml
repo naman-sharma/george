@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df99adb1-58b5-4b4a-b09d-3c2dda425ff3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/skel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-large.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-medium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-small.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-xlarge.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-xsmall.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blender9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/face1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/face2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/face3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jssor.slider-23.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/skel-layers.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style-large.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style-medium.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style-small.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style-xsmall.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/css/style2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/blender17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/blender9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/face2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/face3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/pic03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slider/images/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slider/images/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slider/images/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slider/js/jssor.slider-23.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slider/standard.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.php" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/listing.php" afterPath="$PROJECT_DIR$/public/listing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/login.php" afterPath="$PROJECT_DIR$/public/login.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-469">
+              <caret line="208" column="34" lean-forward="false" selection-start-line="208" selection-start-column="34" selection-end-line="208" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listing.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/listing.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="451" column="40" lean-forward="false" selection-start-line="451" selection-start-column="40" selection-end-line="451" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>descript</find>
+      <find>copy</find>
+      <find>login</find>
+      <find>input</find>
+      <find>country</find>
+      <find>accountchoos</find>
+      <find>accountChooser</find>
+      <find>terms of service</find>
+      <find>choose password</find>
+      <find>auth</find>
+      <find>vf</find>
+      <find>Vf</find>
+      <find>sign in with</find>
+      <find>sign in with email</find>
+      <find>ENTER EMAIL TO SIGN IN/REGISTER</find>
+      <find>style</find>
+      <find>body</find>
+      <find>js</find>
+      <find>containe</find>
+      <find>index</find>
+      <find>credentialhelper</find>
+      <find>load</find>
+      <find>click</find>
+      <find>lo</find>
+      <find>../</find>
+      <find>css</find>
+      <find>index.js</find>
+      <find>style.</find>
+      <find>HREF</find>
+      <find>firebaseui</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/posting.php" />
+        <option value="$PROJECT_DIR$/flat-login-form-3-0/index.html" />
+        <option value="$PROJECT_DIR$/flat-login-form-3-0/login.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/css/style2.css" />
+        <option value="$PROJECT_DIR$/public/random.html" />
+        <option value="$PROJECT_DIR$/listing.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/public/index.php.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/public/listing.php" />
+        <option value="$PROJECT_DIR$/public/login.php" />
+        <option value="$PROJECT_DIR$/public/js/firebaseui.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="George" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\George\public\css" />
+      <recent name="C:\Apache24\htdocs\George\public\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\George\public" />
+      <recent name="C:\Apache24\htdocs\George" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df99adb1-58b5-4b4a-b09d-3c2dda425ff3" name="Default" comment="" />
+      <created>1492448782665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492448782665</updated>
+      <workItem from="1492448784017" duration="9176000" />
+      <workItem from="1492459911473" duration="58000" />
+      <workItem from="1492461555956" duration="45000" />
+      <workItem from="1492921441693" duration="1223000" />
+      <workItem from="1493075420193" duration="620000" />
+      <workItem from="1493409776843" duration="3834000" />
+      <workItem from="1493668334928" duration="12422000" />
+      <workItem from="1493705731684" duration="2059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29437000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16764276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style2.css" />
+    <entry file="file://$PROJECT_DIR$/flat-login-form-3-0/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/posting.php" />
+    <entry file="file://$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+    <entry file="file://$PROJECT_DIR$/flat-login-form-3-0/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/flat-login-form-3-0/scss/style.scss" />
+    <entry file="file://$PROJECT_DIR$/flat-login-form-3-0/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/style2.css" />
+    <entry file="file://$PROJECT_DIR$/public/random.html" />
+    <entry file="file://$PROJECT_DIR$/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/landing.php" />
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php.html" />
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style-small.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/style-xsmall.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/style-medium.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/style-large.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#span#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/listing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="451" column="40" lean-forward="false" selection-start-line="451" selection-start-column="40" selection-end-line="451" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="208" column="34" lean-forward="false" selection-start-line="208" selection-start-column="34" selection-end-line="208" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/firebaseui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="5640" column="0" lean-forward="true" selection-start-line="5640" selection-start-column="0" selection-end-line="5640" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

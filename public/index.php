@@ -206,7 +206,7 @@
             <li><a href="#">Advertisers</a></li>
             <li><a href="#">About Us</a></li>
             <li><a href="login.php">Login</a></li>
-            <li><a href="#" class="button special">Register</a></li>
+            <li><a href="login.php" class="button special">Register</a></li>
         </ul>
     </nav>
 </header>

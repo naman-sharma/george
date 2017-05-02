@@ -200,13 +200,13 @@
 <body id="top">
 <!-- Header -->
 <header id="header" class="skel-layers-fixed">
-    <h1><a href="#">George</a></h1>
+    <h1><a href="index.php">George</a></h1>
     <nav id="nav">
         <ul>
             <li><a href="#">Advertisers</a></li>
             <li><a href="#">About Us</a></li>
             <li><a href="login.php">Login</a></li>
-            <li><a href="#" class="button special">Register</a></li>
+            <li><a href="login.php" class="button special">Register</a></li>
         </ul>
     </nav>
 </header>
